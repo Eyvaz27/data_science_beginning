@@ -5,6 +5,6 @@ Numpy Pandas
 I have also included 'func' file
 In session1.py file I have compared
 two ways of detecting even numbers
-### 'datetime' 
+### 'datetime' Library
 Library has been used in order
 to compute running time of algorithms
